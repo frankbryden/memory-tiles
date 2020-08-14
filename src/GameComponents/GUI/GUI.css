@@ -1,0 +1,23 @@
+.gui {
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+
+.playerLbl {
+    padding: 5px;
+    width:150px;
+    background-color: darkgray;
+
+}
+
+.currentPlayer {
+    background-color: darkolivegreen;
+    font-weight: bold;
+}
+
+.spacing {
+    display: inline-block;
+    width: 50px;
+
+}
